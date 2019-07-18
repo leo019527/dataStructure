@@ -154,7 +154,7 @@ void mArrayList<T>::ensureCapacity(int increase) {
         exit(1);
     } else {
         this->pHead = newHead;
-        this->length = writeOutLength;
+        this->size = writeOutLength;
     }
 }
 
