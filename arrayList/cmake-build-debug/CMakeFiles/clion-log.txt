@@ -1,4 +1,0 @@
-"D:\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\workspace\C\dataStructure\arrayList
--- Configuring done
--- Generating done
--- Build files have been written to: E:/workspace/C/dataStructure/arrayList/cmake-build-debug
