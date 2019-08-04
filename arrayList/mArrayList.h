@@ -40,6 +40,22 @@ public:
 
     ~mArrayList();
 
+    /**
+     * 初始化函数，返回空线性表,与构造函数功能相同，为适应王道考研教材修改
+     */
+    void InitList();
+
+    /**
+     * 求长度
+     * @return 返回线性表长度
+     */
+    int Length();
+
+    /**
+     * 判空
+     * @return true 表示空
+     */
+    bool Empty();
 
     /**
      * 增加一个数据至数组末端
@@ -251,6 +267,21 @@ bool mArrayList<T>::set(int index, T data) {
         return false;
     this->pHead[index] = data;
     return true;
+}
+
+template<class T>
+void mArrayList::InitList() {
+    this->size = ARRAYLIST_INITSIZE;
+    this->length = 0;
+    this->pHead = (T *) malloc(sizeof(T) * this->size);
+}
+
+int mArrayList::Length() {
+    return this->length;
+}
+
+bool mArrayList::Empty() {
+    return this->length==0;
 }
 
 //</editor-fold>
