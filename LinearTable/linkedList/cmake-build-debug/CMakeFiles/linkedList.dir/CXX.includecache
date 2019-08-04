@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/workspace/C/dataStructure/linkedList/LinkedList.h
+iostream
+-
+
+E:/workspace/C/dataStructure/linkedList/main.cpp
+LinkedList.h
+E:/workspace/C/dataStructure/linkedList/LinkedList.h
+

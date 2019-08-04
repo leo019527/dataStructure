@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/workspace/C/dataStructure/arrayList/mArrayList.h
+malloc.h
+-
+iostream
+-
+
+E:/workspace/C/dataStructure/arrayList/main.cpp
+iostream
+-
+mArrayList.h
+E:/workspace/C/dataStructure/arrayList/mArrayList.h
+
