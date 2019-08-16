@@ -5,6 +5,8 @@
 * 项目地址: 
   1. `https://github.com/leo019527/dataStructure`
   2. `git@github.com:leo019527/dataStructure.git`
+* 说明
+  1. 代码均未验证
 
 ## 目录结构
 
