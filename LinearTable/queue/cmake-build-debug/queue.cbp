@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="E:/workspace/C/dataStructure/queue/cmake-build-debug"/>
+				<Option working_dir="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="E:/workspace/C/dataStructure/queue/cmake-build-debug"/>
+				<Option working_dir="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="queue">
-				<Option output="E:/workspace/C/dataStructure/queue/cmake-build-debug/queue.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/workspace/C/dataStructure/queue/cmake-build-debug"/>
+				<Option output="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/queue.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -43,15 +43,15 @@
 					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 queue"/>
-					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 queue"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="queue/fast">
-				<Option output="E:/workspace/C/dataStructure/queue/cmake-build-debug/queue.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/workspace/C/dataStructure/queue/cmake-build-debug"/>
+				<Option output="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/queue.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -65,30 +65,30 @@
 					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 queue/fast"/>
-					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 queue/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="E:/workspace/C/dataStructure/queue/cmake-build-debug"/>
+				<Option working_dir="E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/C/dataStructure/LinearTable/queue/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/workspace/C/dataStructure/queue/main.cpp">
+		<Unit filename="E:/workspace/C/dataStructure/LinearTable/queue/main.cpp">
 			<Option target="queue"/>
 		</Unit>
-		<Unit filename="E:/workspace/C/dataStructure/queue/queue.h">
+		<Unit filename="E:/workspace/C/dataStructure/LinearTable/queue/queue.h">
 			<Option target="queue"/>
 		</Unit>
-		<Unit filename="E:/workspace/C/dataStructure/queue/CMakeLists.txt">
+		<Unit filename="E:/workspace/C/dataStructure/LinearTable/queue/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
