@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/workspace/C/dataStructure/Tree/biTree/BiNode.cpp
+BiNode.h
+E:/workspace/C/dataStructure/Tree/biTree/BiNode.h
+
+E:/workspace/C/dataStructure/Tree/biTree/BiNode.h
+
+E:/workspace/C/dataStructure/Tree/biTree/BiTree.cpp
+BiTree.h
+E:/workspace/C/dataStructure/Tree/biTree/BiTree.h
+
+E:/workspace/C/dataStructure/Tree/biTree/BiTree.h
+iostream
+-
+stack
+-
+BiNode.h
+E:/workspace/C/dataStructure/Tree/biTree/BiNode.h
+
+E:/workspace/C/dataStructure/Tree/biTree/main.cpp
+BiTree.h
+E:/workspace/C/dataStructure/Tree/biTree/BiTree.h
+
