@@ -35,8 +35,8 @@
       <file leaf-file-name="BiTree.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BiTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="530">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -177,12 +177,12 @@
       <workItem from="1570867196126" duration="5709000" />
       <workItem from="1570932880237" duration="7126000" />
       <workItem from="1570943773823" duration="1724000" />
-      <workItem from="1570945627773" duration="2434000" />
+      <workItem from="1570945627773" duration="3034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16993000" />
+    <option name="totallyTimeSpent" value="17593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -422,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BiTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="530">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
           <folding />
         </state>
       </provider>
